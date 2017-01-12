@@ -2,6 +2,7 @@
   "name": "beginers",
   "dependencies": {
     "jquery": "1.11",
-    "bootstrap": "^3.3.7"
+    "bootstrap": "^3.3.7",
+    "normalize-css": "normalize.css#^5.0.0"
   }
 }
