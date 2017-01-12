@@ -1,0 +1,7 @@
+{
+  "name": "beginers",
+  "dependencies": {
+    "jquery": "1.11",
+    "bootstrap": "^3.3.7"
+  }
+}
